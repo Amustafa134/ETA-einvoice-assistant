@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+qdrant-client
+langchain
+langchain-openai
+openai
+ragas==0.3.9
+pymupdf
+pytesseract
+pillow
+python-dotenv
+pytest
+langchain-text-splitters
+sentence-transformers
+langchain-huggingface
+datasets
+langchain-community
