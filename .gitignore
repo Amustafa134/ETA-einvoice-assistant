@@ -1,0 +1,11 @@
+# Environment variables -- NEVER commit this, it will hold your API key
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
