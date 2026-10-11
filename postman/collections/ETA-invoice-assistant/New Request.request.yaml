@@ -1,0 +1,11 @@
+$kind: http-request
+url: http://127.0.0.1:8000/ask
+method: POST
+body:
+  type: json
+  content: |-
+    {
+        "question": "Can more than one credit note be linked to the same invoice?",
+        "top_k": 5
+    }
+order: 1000
